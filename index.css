@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'YourFontName';
+    src: url('./font/有字库龙藏.ttf');
+}
+*{
+    font-family:YourFontName;
+    padding: 0;
+    margin: 0;
+    /* box-sizing: border-box; */
+}
